@@ -29,7 +29,7 @@ https://parkhousecarehome.herokuapp.com/</br>
 https://digilia.co.uk</br>
 ∙ FE: ReactJS / SCSS</br>
 ∙ BE: Python (Django)</br>
-∙ Other: MERN/ Insomnia / NPM / Herokua</br>
+∙ Other: MERN / Insomnia / NPM / Herokua</br>
 
 **Zelda's Quest** 🧙‍♂️</br>
 https://zeldas-quest.netlify.app/</br>
