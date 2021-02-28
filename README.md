@@ -7,8 +7,6 @@
 **I'M LEARNING**</br>
 ∙ Drupal 8 👨🏼‍💻</br>
 
-<p>Here's some of my recent work.</p>
-
 **IN PROGRESS PROJECTS:**</br>
 
 **Park House Care Home** 🏡</br>
