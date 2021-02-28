@@ -12,7 +12,7 @@
 https://parkhousecarehome.herokuapp.com/</br>
 ∙ FE: ReactJS / SCSS / react-modal</br>
 ∙ BE: Python (Django)</br>
-∙ Tools: Insomnia / NPM / REST</br></br>
+∙ Tools: Insomnia / NPM / REST</br>
 
 **RECENT:**</br>
 
