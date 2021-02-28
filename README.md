@@ -39,6 +39,7 @@ https://zeldas-quest.netlify.app/</br>
 **Dicktatorship** 🤡</br>
 https://dicktatorship.netlify.app/</br>
 ∙ FE: ReactJS / SCSS</br>
+∙ Other: Yarn</br>
 ∙ API's: https://kanye.rest/ & https://www.tronalddump.io/</br>
 
 **GigMe** 🎸</br>
