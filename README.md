@@ -4,7 +4,7 @@
 ∙ Portfolio - https://digilia.co.uk</br>
 ∙ LinkedIn - https://www.linkedin.com/in/liam-atkins-51753444/</br>
 
-**I'M LEARNING**</br>
+**I'M LEARNING:**</br>
 ∙ Drupal 8 👨🏼‍💻</br>
 
 **IN PROGRESS PROJECTS:**</br>
