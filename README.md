@@ -2,7 +2,7 @@ Hi!
 
 I'm Liam - a former Software Engineering Immersive student at General Assembly (SEI 49). Currently a Digital Project Manager and also a freelance Web Developers. Here's some of my recent projects.</br></br>
 
-**IN PROGRESS**</br>
+**IN PROGRESS:**</br>
 
 **Park House Care Home** 🏡</br>
 https://parkhousecarehome.herokuapp.com/</br>
@@ -35,4 +35,8 @@ https://damienkinglee.com/</br>
 **Moses Motrocycles**. 🏍</br>
 https://damienkinglee.com/</br>
 ∙ Wordpress</br>
+
+**Daft Punk Soundboard** 🎧</br>
+https://daft-punk-sound-board.netlify.app/</br>
+∙ FE: Vanilla JavaScript</br>
 
