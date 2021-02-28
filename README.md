@@ -33,7 +33,7 @@ https://dicktatorship.netlify.app/</br>
 ∙ API's: https://kanye.rest/ & https://www.tronalddump.io/</br>
 
 **GigMe** 🎸</br>
-https://gigme-app.herokuapp.com/
+https://gigme-app.herokuapp.com/</br>
 ∙ FE: ReactJS / SCSS </br>
 ∙ BE: Python (Django)</br>
 ∙ Other: MERN/ Insomnia / NPM / Herokua</br>
