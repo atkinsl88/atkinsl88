@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I'm currently working on:
+- React JS app for local client
+
+🌱 I'm currently learning
+- Working with Druap 8 Themes
+
 <!--
 **atkinsl88/atkinsl88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
