@@ -1,4 +1,4 @@
-<p>I'm Liam - a former Software Engineering Immersive student at General Assembly (SEI 49). Currently a Digital Project Manager at Investis Digital and a freelance Web Developers.</p>
+<p>I'm Liam - a former Software Engineering Immersive student at General Assembly (SEI 49). Currently a Digital Project Manager at Investis Digital and a freelance Web Developer.</p>
 
 <p>Here's some of my recent projects.</p>
 
