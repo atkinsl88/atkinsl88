@@ -9,7 +9,12 @@
 ---------------------
 
 **I'M LEARNING:**</br>
-∙ Drupal 8 👨🏼‍💻 (MAMP)</br>
+∙ Drupal 8/9 👨🏼‍💻</br>
+  ∙ MAMP / Database Management</br>
+  ∙ Content Types / Views</br>
+  ∙ Custom Themeing</br>
+  ∙ Template Overriding</br>
+  ∙ Database / File Transfer</br>
 
 ---------------------
 
