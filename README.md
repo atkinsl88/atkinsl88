@@ -1,11 +1,17 @@
 <p>I'm Liam - a former Software Engineering Immersive student at General Assembly (SEI 49). Currently working as Digital Project Manager at Investis Digital and a freelance Web Developer working with local clients.</p>
 
+---------------------
+
 **LINKS:**</br>
 ∙ Portfolio - https://digilia.co.uk</br>
 ∙ LinkedIn - https://www.linkedin.com/in/liam-atkins-51753444/</br>
 
+---------------------
+
 **I'M LEARNING:**</br>
 ∙ Drupal 8 👨🏼‍💻</br>
+
+---------------------
 
 **IN PROGRESS PROJECTS:**</br>
 
@@ -14,6 +20,8 @@ https://parkhousecarehome.herokuapp.com/</br>
 ∙ FE: ReactJS / SCSS / react-modal</br>
 ∙ BE: Python (Django)</br>
 ∙ Tools: Insomnia / NPM / REST</br>
+
+---------------------
 
 **RECENT PROJETCS:**</br>
 
