@@ -1,6 +1,6 @@
 <p>I'm Liam - a former Software Engineering Immersive student at General Assembly (SEI 49). Currently a Digital Project Manager at Investis Digital and a freelance Web Developer.</p>
 
-<p>Here's some of my recent projects.</p>
+<p>Here's some of my recent work.</p>
 
 **IN PROGRESS:**</br>
 
@@ -12,6 +12,12 @@ https://parkhousecarehome.herokuapp.com/</br>
 
 **RECENT:**</br>
 
+**My Portfolio** 🌱</br>
+https://digilia.co.uk</br>
+∙ FE: ReactJS / SCSS</br>
+∙ BE: Python (Django)</br>
+∙ Other: MERN/ Insomnia / NPM / Herokua</br>
+
 **Zelda's Quest** 🧙‍♂️</br>
 https://zeldas-quest.netlify.app/</br>
 ∙ FE: Vanilla JavaScript</br>
@@ -22,7 +28,7 @@ https://dicktatorship.netlify.app/</br>
 ∙ FE: ReactJS / SCSS</br>
 ∙ API's: https://kanye.rest/ & https://www.tronalddump.io/</br>
 
-**GigMe** 🎧</br>
+**GigMe** 🎸</br>
 https://gigme-app.herokuapp.com/
 ∙ FE: ReactJS / SCSS </br>
 ∙ BE: Python (Django)</br>
