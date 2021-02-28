@@ -2,11 +2,14 @@
 
 **LINKS:**</br>
 ∙ Portfolio - https://digilia.co.uk</br>
-∙ LinkedIn - https://www.linkedin.com/in/liam-atkins-51753444/</br></br>
+∙ LinkedIn - https://www.linkedin.com/in/liam-atkins-51753444/</br>
+
+**I'M LEARNING**</br>
+∙ Drupal 8 👨🏼‍💻</br>
 
 <p>Here's some of my recent work.</p>
 
-**IN PROGRESS:**</br>
+**IN PROGRESS PROJECTS:**</br>
 
 **Park House Care Home** 🏡</br>
 https://parkhousecarehome.herokuapp.com/</br>
@@ -14,7 +17,7 @@ https://parkhousecarehome.herokuapp.com/</br>
 ∙ BE: Python (Django)</br>
 ∙ Tools: Insomnia / NPM / REST</br>
 
-**RECENT:**</br>
+**RECENT PROJETCS:**</br>
 
 **My Portfolio** 🌱</br>
 https://digilia.co.uk</br>
