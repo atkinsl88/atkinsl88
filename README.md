@@ -1,8 +1,8 @@
 <p>I'm Liam - a former Software Engineering Immersive student at General Assembly (SEI 49). Currently a Digital Project Manager at Investis Digital and a freelance Web Developer.</p>
 
-**Links:**</br>
+**LINKS:**</br>
 ∙ Portfolio - https://digilia.co.uk</br>
-∙ LinkedIn - https://www.linkedin.com/in/liam-atkins-51753444/</br>
+∙ LinkedIn - https://www.linkedin.com/in/liam-atkins-51753444/</br></br>
 
 <p>Here's some of my recent work.</p>
 
