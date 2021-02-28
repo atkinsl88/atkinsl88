@@ -52,7 +52,7 @@ https://gigme-app.herokuapp.com/</br>
 https://damienkinglee.com/</br>
 ∙ Wordpress</br>
 
-**Moses Motrocycles**. 🏍</br>
+**Moses Motrocycles** 🏍</br>
 https://damienkinglee.com/</br>
 ∙ Wordpress</br>
 
