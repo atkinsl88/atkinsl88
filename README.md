@@ -1,22 +1,11 @@
 ### Hi there 👋
+-----------------------------
+I'm Liam and I enjoy digital design and development.
 
 🔭 I'm currently working on:
-- React JS app for local client
+React JS app
 
 🌱 I'm currently learning
-- Working with Druap 8 Themes
+Working with Druap 8 Themes
 
-<!--
-**atkinsl88/atkinsl88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio: http://digilia.co.uk/
