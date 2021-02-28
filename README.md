@@ -12,7 +12,7 @@
 ∙ Drupal 8/9 👨🏼‍💻</br><ul>
   <li>MAMP / Database Management</li>
   <li>Content Types / Views</li>
-  <li>Custom Themeing</li>
+  <li>Custom Theming</li>
   <li>Template Overriding</li>
   <li>Database / File Transfer</br></ul>
 
